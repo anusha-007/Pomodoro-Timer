@@ -3,4 +3,4 @@
 
 ## Timer
 
-![](/images/TomatoTimer.png)
+![](/images/Tomato.png)
